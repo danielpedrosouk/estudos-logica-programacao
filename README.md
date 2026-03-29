@@ -1,7 +1,7 @@
 # 🚀 Jornada de Transição para Tecnologia | Lógica de Programação
 
 Olá! 👋  
-Este repositório documenta minha transição de carreira para a área de tecnologia, iniciada aos 38 anos.
+Me chamo Daniel e este repositório documenta minha transição de carreira para a área de tecnologia, iniciada aos 38 anos.
 
 ## 🎯 Objetivo
 Construir uma base sólida em lógica de programação antes de avançar para linguagens como Python, Java ou C#.
