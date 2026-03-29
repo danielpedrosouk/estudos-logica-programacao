@@ -1,5 +1,8 @@
 Algoritmo "temperatura"
 
+// Disciplina: Logica da programacao
+// Autor(a): Daniel Pedroso
+
 Var
  escala : caractere
  f, c : real

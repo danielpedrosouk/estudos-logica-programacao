@@ -1,5 +1,7 @@
 Algoritmo "notas"
 
+// Disciplina: Logica da programacao
+// Autor(a): Daniel Pedroso
 
 Var
  
