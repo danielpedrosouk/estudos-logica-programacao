@@ -1,9 +1,7 @@
 Algoritmo "medidas"
 
-// Disciplina: Algoritmos
-// Professor: Conrado Salomé Ribeiro
-// Descrição: Descreva o que o algoritmo faz
-// Autor(a): Nome do(a) aluno(a)
+// Disciplina: Logica da programacao
+// Autor(a): Daniel Pedroso
 // Data: 13/03/2026
 
 Var
