@@ -1,9 +1,7 @@
 Algoritmo "operadora"
 
-// Disciplina: Algoritmos
-// Professor: Conrado Salomé Ribeiro
-// Descrição: Descreva o que o algoritmo faz
-// Autor(a): Nome do(a) aluno(a)
+// Disciplina: Logica da programacao
+// Autor(a): Daniel Pedroso
 // Data: 19/03/2026
 
 Var
