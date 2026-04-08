@@ -18,15 +18,6 @@ Inicio
    leia (senha)
  fimenquanto
  
- se senha = 2002 entao
- 
  escreval ("Acesso permitido!")
  
- fimse
-  
- 
- 
-
-
-
 fimalgoritmo
