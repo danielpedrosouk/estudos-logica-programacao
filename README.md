@@ -1,51 +1,48 @@
-# 🚀 Jornada de Transição para Tecnologia | Lógica de Programação
+# 🚀 Estudos de Lógica de Programação
 
-Olá! 👋  
-Me chamo Daniel e este repositório documenta minha transição de carreira para a área de tecnologia, iniciada aos 38 anos.
+Este repositório documenta minha jornada de aprendizado em lógica de programação, com foco na construção de uma base sólida para desenvolvimento de software.
 
 ## 🎯 Objetivo
-Construir uma base sólida em lógica de programação antes de avançar para linguagens como Python, Java ou C#.
 
-## 📚 Progresso no Curso
+Desenvolver habilidades fundamentais em algoritmos e lógica antes de avançar para linguagens como Python, Java ou C#.
 
-### ✅ Concluído
-- Introdução à programação  
-- Estrutura sequencial  
-- Estruturas condicionais  
+## 📚 Conteúdos
 
-### 🔄 Em andamento
-- Estruturas repetitivas  
+- Estrutura Sequencial  
+- Estruturas Condicionais  
+- Estruturas Repetitivas  
+- Vetores (em andamento)  
+- Matrizes (próximo passo)  
 
-### ⏳ Próximos
-- Vetores  
-- Matrizes  
+## 📂 Organização do Repositório
 
-## 📈 Prática
+01-Estrutura-Sequencial  
+02-Estrutura-Condicional  
+03-Estrutura-Repetitiva  
+04-Estrutura-Vetores  
 
-Este repositório contém exercícios resolvidos utilizando Portugol (Visualg), com foco em:
+Cada pasta contém exercícios práticos resolvidos utilizando Portugol (Visualg).
 
-- Variáveis  
-- Entrada e saída de dados  
-- Estruturas condicionais  
+## 🛠️ Tecnologias e Ferramentas
 
-## 📂 Estrutura
+- Visualg (Portugol)
+- Git e GitHub
 
-- Exercicios-Basicos  
-- Estruturas-Condicionais  
-- Estruturas-Repeticao  
+## ▶️ Como executar
 
-## 🛠️ Ferramentas
+1. Instale o Visualg  
+2. Abra os arquivos .alg  
+3. Execute os algoritmos diretamente na ferramenta  
 
-- Visualg  
-- GitHub Desktop  
+## 📈 Evolução
+
+Este repositório é atualizado continuamente com novos exercícios e melhorias nos códigos existentes.
 
 ## 🔜 Próximos passos
 
-- Finalizar estruturas de repetição  
-- Resolver exercícios mais complexos  
-- Iniciar primeira linguagem (Python ou Java)  
+- Finalizar vetores  
+- Estudar matrizes  
+- Iniciar programação em Python  
 
 ---
-
-💬 Consistência diária acima de intensidade ocasional.
-
+💡 Foco em consistência e evolução contínua
